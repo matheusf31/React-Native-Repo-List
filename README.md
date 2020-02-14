@@ -1,5 +1,9 @@
 ### Desafio 6 do bootcamp GoStack da RocketSeat
 
+#### Aplicação:
+
+<img src="screenshots/Screenshot_20200214-172344_modulo6.jpg" width="320"> <img src="screenshots/Screenshot_20200214-172348_modulo6.jpg" width="320"> <img src="screenshots/Screenshot_20200214-172402_modulo6.jpg" width="320">
+
 #### Descrição:
 
 - Aplicação que exibe usuários buscados em requisições à API do github, além de exibir os repositórios marcados com estrela e abrir estes repositórios em uma WebView.
