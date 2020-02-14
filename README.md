@@ -2,6 +2,10 @@
 
 #### Descrição:
 
+- Aplicação que exibe usuários buscados em requisições à API do github, além de exibir os repositórios marcados com estrela e abrir estes repositórios em uma WebView.
+
+- Link com a descrição do desafio: (Desafio 6)[https://github.com/Rocketseat/bootcamp-gostack-desafio-06]
+
 #### Funcionalidades:
 
 - React-navigation: para configurar a parte de roteamento da aplicação;
