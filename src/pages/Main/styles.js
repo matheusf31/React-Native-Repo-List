@@ -25,6 +25,7 @@ export const Input = styled.TextInput.attrs({
   border: 1px solid #eee;
 `;
 
+// por padrão no react native os componentes não tem atributos igual no react
 export const SubmitButton = styled(RectButton)`
   justify-content: center;
   align-items: center;
@@ -32,6 +33,7 @@ export const SubmitButton = styled(RectButton)`
   border-radius: 4px;
   margin-left: 10px;
   padding: 0 12px;
+  opacity: ${props => (props.loading ? 0.7 : 1)};
 `;
 
 export const List = styled.FlatList.attrs({
