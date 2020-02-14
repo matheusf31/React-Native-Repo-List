@@ -10,3 +10,4 @@
 - Axios: para fazer a conexão com a API externa do github;
 - React-native-community/async-storage: para usarmos o armazenamento local do celular;
 - Prop-types: para realizar a validação das propriedades dos componentes;
+- React-native-webview: para criar uma página na aplicação que é uma WebView, ou seja, um browser integrado.
