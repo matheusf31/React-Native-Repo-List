@@ -2,7 +2,7 @@
 
 #### Aplicação:
 
-<img src="screenshots/Screenshot_20200214-172344_modulo6.jpg" width="200"> <img src="screenshots/Screenshot_20200214-172348_modulo6.jpg" width="200"> <img src="screenshots/Screenshot_20200214-172402_modulo6.jpg" width="200">
+<img src="screenshots/Screenshot_20200214-172344_modulo6.jpg" width="250"> <img src="screenshots/Screenshot_20200214-172348_modulo6.jpg" width="250"> <img src="screenshots/Screenshot_20200214-172402_modulo6.jpg" width="250">
 
 #### Descrição:
 
