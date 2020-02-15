@@ -12,7 +12,7 @@
 
 - Obs.: o código está cheio de comentários porque ele servirá para meus estudos posteriormente.
 
-#### Funcionalidades:
+#### Ferramentas:
 
 - React-navigation: para configurar a parte de roteamento da aplicação;
 - Styled-components: para estilização dos componentes assim como foi feito na aplicação web;
